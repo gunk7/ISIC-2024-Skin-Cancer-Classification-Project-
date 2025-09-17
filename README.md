@@ -1,4 +1,4 @@
-**Skin Cancer Classification (ISIC 2024 Challenge)**
+** 🩺 Skin Cancer Classification (ISIC 2024 Challenge)**
 
 This project applies Data Science, Machine learning, & Deep learning (CNNs) to classify skin lesions as benign or malignant using the ISIC 2024 Kaggle dataset
 . It was Built and trained in Google Colab with TensorFlow/Keras.
