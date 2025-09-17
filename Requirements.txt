@@ -1,0 +1,13 @@
+Libraries sed in the project 
+pandas
+numpy
+h5py
+matplotlib
+seaborn
+opencv-python
+imbalanced-learn
+scikit-learn
+tensorflow
+torch
+torchvision
+Pillow
